@@ -1,10 +1,10 @@
 {
-  "name": "Zoranftsubgraph",
+  "name": "zoranftsubgraph",
   "description": "A subgraph for querying NFTs",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shanejearley/Zoranftsubgraph"
+    "url": "https://github.com/shanejearley/zoranftsubgraph"
   },
   "scripts": {
     "codegen": "graph codegen",
