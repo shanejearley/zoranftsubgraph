@@ -5,6 +5,7 @@ type Token @entity {
   metadataURI: String!
   creator: User!
   owner: User!
+  createdAtTimestamp: BigInt!
 }
 
 type User @entity {
